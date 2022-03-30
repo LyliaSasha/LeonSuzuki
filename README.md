@@ -23,9 +23,6 @@ Udh No Enc Gak Subrek? Parah lu Anj, Ini Free Apikey Kalo Habis Isi Sendiri yak
     
 ## Heroku Buildpack
 
-Click the deploy icon below !
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LyliaSasha/LeonSuzuki)
 
 ```bash
  > heroku/nodejs
