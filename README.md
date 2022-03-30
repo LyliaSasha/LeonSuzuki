@@ -37,11 +37,11 @@ Click the deploy icon below !
 - [Group 1](https://chat.whatsapp.com/GStM13Ktxr085ubmy1EMKN)
 - [Group 2](https://chat.whatsapp.com/FU9uGSY7ODW9spPWCJFmEP)
 - [Group 3](https://chat.whatsapp.com/JPbWAU093gNCG1L9Akr7c3)
-- [test base] (https://chat.whatsapp.com/CvU3tfUzyim9eEx180J4Pg)
-- [test grup] (https://chat.whatsapp.com/K11yetnP76dFSz3F6Qpnos)
+- [Group Test Leon](https://chat.whatsapp.com/CvU3tfUzyim9eEx180J4Pg)
+- [test grup](https://chat.whatsapp.com/K11yetnP76dFSz3F6Qpnos)
 
 # Thanks To
-- My god & my parents
+- SashaChan
 - Penyedia module
 - Teman" yang selalu support saya
 - Kalian semua 🛐
